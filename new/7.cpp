@@ -28,3 +28,5 @@ int main(){
     ptr->get_name();
     
 }
+
+/*inline keyword is used for accesing the predefined function*/
