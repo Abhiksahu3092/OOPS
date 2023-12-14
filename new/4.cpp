@@ -18,5 +18,5 @@ long number(long n){
 }
 
 int main(){
-    number(10);
+    number(10.3478374933);
 }
